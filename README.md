@@ -57,22 +57,22 @@ This project performs a full-cycle sales performance analysis on a structured re
 sales-performance-analysis/
 │
 ├── data/
-│   └── sales_data.csv                # Raw dataset
+│   └── Sales_data1.0.xlsx   # Raw dataset
 │
 ├── notebooks/
-│   └── sales_analysis.ipynb          # Main EDA and analysis notebook
+│   └── Sales Analysis (1).ipynb          # Main EDA and analysis notebook
 │
 ├── sql/
-│   └── kpi_queries.sql               # SQL queries for KPI calculations
+│   └── Sales Analysis.sql 1.1.sql               # SQL queries for calculations
 │
 ├── dashboard/
-│   └── Sales_Performance.pbix        # Power BI dashboard file
+│   └── Sale Overview Dashboard Power BI .pbix        # Power BI dashboard file
 │
 ├── reports/
-│   └── Sales_Performance_Analysis.pdf  # Full project report
+│   └── Sales Performance Analysis.pdf  # Full project report
 │
 ├── images/
-│   └── dashboard_preview.png         # Dashboard screenshot
+│   └── Sale Overview Dashboard Power BI.pdf          # Dashboard screenshot
 │
 └── README.md
 ```
